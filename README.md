@@ -195,7 +195,7 @@ Project Link: [https://github.com/EddieCHuang/Escape-the-room](https://github.co
 [stars-url]: https://github.com/EddieCHuang/Escape-the-room/stargazers
 [issues-shield]: https://img.shields.io/github/issues/EddieCHuang/Escape-the-room.svg?style=for-the-badge
 [issues-url]: https://github.com/EddieCHuang/Escape-the-room/issues
-[license-shield]: https://img.shields.io/github/license/EddieCHuang/Escape-the-room.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
 [license-url]: https://github.com/EddieCHuang/Escape-the-room/blob/Version-1/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
